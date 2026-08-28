@@ -1,0 +1,15 @@
+domain,example_fields,portfolio_description
+Record identity,"year, province code, village code",Composite village-year panel identifiers
+Geography,"province, city, county, township, longitude, latitude",Administrative and spatial matching fields
+Population migration,"annual in-migration, annual out-migration",Longer-term population movement measures
+Labor mobility,"incoming labor, outgoing labor, destination categories",Shorter-term employment-related movement
+Economic conditions,"village income, disposable income, enterprise counts",Village-level economic indicators
+Healthcare,"vaccination, health examinations, clinics, cooperative medical participation",Local health-service indicators
+Extreme temperature,"absolute and percentile-based heat/cold measures",Derived exposure indicators under alternative definitions
+Emissions,carbon emissions,Environmental outcome/control field
+Village characteristics,"terrain, economic region, poverty status, households, population",Baseline village controls
+Labor structure,"education and industry categories",Composition of the village labor force
+Agricultural land,"cultivated land, crop area, forest, pasture, water area",Land-use and production indicators
+Land transfer,"land transferred in/out and recipient types",Village land-market indicators
+Infrastructure,"water, electricity, phones, computers, road access",Village infrastructure measures
+
